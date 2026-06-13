@@ -1,0 +1,12 @@
+# Core pipeline (exp1-exp3)
+numpy>=1.26
+scipy>=1.11
+matplotlib>=3.8
+
+# exp4 (MNIST / pretrained DDPM)
+torch>=2.1
+torchvision>=0.16
+diffusers>=0.27
+
+# Notebooks
+jupyter
